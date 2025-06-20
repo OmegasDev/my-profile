@@ -99,7 +99,7 @@ function App() {
                 <div className="absolute inset-0 bg-gradient-to-r from-purple-400/30 to-indigo-400/30 rounded-3xl blur-2xl opacity-30 group-hover:opacity-50 transition-opacity duration-500"></div>
                 <div className="space-y-6 text-xl text-gray-700 leading-relaxed relative z-10">
                   <p>
-                    I'm a <span className="text-purple-700 font-semibold">self-taught software developer</span>, <span className="text-indigo-700 font-semibold">startup founder</span>, and <span className="text-gray-900 font-semibold">product builder</span> from Nigeria — crafting solutions where most people see problems.
+                    I'm a <span className="text-purple-700 font-semibold"> software developer</span>, <span className="text-indigo-700 font-semibold">startup founder</span>, and <span className="text-gray-900 font-semibold">product builder</span> from Nigeria — crafting solutions where most people see problems.
                   </p>
                   
                   <p>
